@@ -1,0 +1,26 @@
+version: 2
+updates:
+  - package-ecosystem: "dummy"
+    directory: "VTK"
+    schedule:
+      interval: "daily"
+    security-updates:
+      allow:
+        - dependency-type: "all"
+          security-advisories: "github://database/security-advisories"
+  - package-ecosystem: "dummy"
+    directory: "ITK"
+    schedule:
+      interval: "daily"
+    security-updates:
+      allow:
+        - dependency-type: "all"
+          security-advisories: "github://database/security-advisories"
+  - package-ecosystem: "dummy"
+    directory: "DCMTK"
+    schedule:
+      interval: "daily"
+    security-updates:
+      allow:
+        - dependency-type: "all"
+          security-advisories: "github://database/security-advisories"
