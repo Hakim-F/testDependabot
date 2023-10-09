@@ -2,7 +2,7 @@
 
 # VTK (Visualization Toolkit)
 # Example version, replace with the actual version you need
-VTK==8.2.0
+VTK==9.0.1
 
 # ITK (Insight Segmentation and Registration Toolkit)
 # Example version, replace with the actual version you need
