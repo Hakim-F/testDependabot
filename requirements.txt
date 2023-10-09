@@ -1,0 +1,20 @@
+# Your other project dependencies go here
+
+# VTK (Visualization Toolkit)
+# Example version, replace with the actual version you need
+VTK==8.2.0
+
+# ITK (Insight Segmentation and Registration Toolkit)
+# Example version, replace with the actual version you need
+ITK==4.13.2
+
+# DCMTK (DICOM Toolkit)
+# Add DCMTK-related package and version if available
+# For example, you may need to specify a Python wrapper for DCMTK
+DCMTK==3.6.1
+
+# Qt
+# Example version, replace with the actual version you need
+PyQt5==5.15.10  # Assuming you're using PyQt for Qt integration
+
+# Your other project dependencies continue here
